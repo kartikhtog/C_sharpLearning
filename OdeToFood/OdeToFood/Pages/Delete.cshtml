@@ -1,0 +1,33 @@
+﻿@page "{restaurantId:int?}"
+@model OdeToFood.Pages.DeleteModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<form method="post">
+
+    <table class="table alert-danger">
+        <tr>
+            <td>
+                <label asp-for="Restaurant.Name"></label>
+                <input asp-for="Restaurant.Name" />
+            </td>
+            <td>
+                <label asp-for="Restaurant.Id"></label>
+                <input asp-for="Restaurant.Id" />
+            </td>
+            <td>
+                <label asp-for="Restaurant.Location"></label>
+                <input asp-for="Restaurant.Location" />
+            </td>
+            <td>
+                <label asp-for="Restaurant.Alias"></label>
+                <input asp-for="Restaurant.Alias" />
+            </td>
+            <td>
+                <button type="submit" class="btn btn-primary">Confirm Delete</button>
+            </td>
+
+        </tr>
+    </table>
+</form>

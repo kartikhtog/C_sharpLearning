@@ -1,0 +1,13 @@
+C:\Users\karti\Desktop\c_sharp\skills\skills\bin\Debug\netcoreapp3.1\skills.exe
+C:\Users\karti\Desktop\c_sharp\skills\skills\bin\Debug\netcoreapp3.1\skills.deps.json
+C:\Users\karti\Desktop\c_sharp\skills\skills\bin\Debug\netcoreapp3.1\skills.runtimeconfig.json
+C:\Users\karti\Desktop\c_sharp\skills\skills\bin\Debug\netcoreapp3.1\skills.runtimeconfig.dev.json
+C:\Users\karti\Desktop\c_sharp\skills\skills\bin\Debug\netcoreapp3.1\skills.dll
+C:\Users\karti\Desktop\c_sharp\skills\skills\bin\Debug\netcoreapp3.1\skills.pdb
+C:\Users\karti\Desktop\c_sharp\skills\skills\obj\Debug\netcoreapp3.1\skills.csproj.AssemblyReference.cache
+C:\Users\karti\Desktop\c_sharp\skills\skills\obj\Debug\netcoreapp3.1\skills.AssemblyInfoInputs.cache
+C:\Users\karti\Desktop\c_sharp\skills\skills\obj\Debug\netcoreapp3.1\skills.AssemblyInfo.cs
+C:\Users\karti\Desktop\c_sharp\skills\skills\obj\Debug\netcoreapp3.1\skills.csproj.CoreCompileInputs.cache
+C:\Users\karti\Desktop\c_sharp\skills\skills\obj\Debug\netcoreapp3.1\skills.dll
+C:\Users\karti\Desktop\c_sharp\skills\skills\obj\Debug\netcoreapp3.1\skills.pdb
+C:\Users\karti\Desktop\c_sharp\skills\skills\obj\Debug\netcoreapp3.1\skills.genruntimeconfig.cache
