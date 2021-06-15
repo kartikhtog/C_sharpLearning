@@ -1,4 +1,5 @@
-﻿using skills.Events;
+﻿using skills.BestPractices;
+using skills.Events;
 using skills.Nullable;
 using System;
 
@@ -9,7 +10,13 @@ namespace skills
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            EventStuff();
+            //EventStuff();
+            MethodWriting();
+        }
+
+        static void MethodWriting()
+        {
+            var methods = new WritingMethods();
         }
 
         static void EventStuff()

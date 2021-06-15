@@ -5,7 +5,6 @@ namespace skills.Events.Example
 {
     public class WiringUpEvents
     {
-
         public event EventHandler<WorkEventArgs> WorkCompleted;
 
         public virtual void DoWork()
