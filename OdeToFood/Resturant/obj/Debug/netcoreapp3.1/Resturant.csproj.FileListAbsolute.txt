@@ -1,9 +1,0 @@
-C:\Users\karti\Desktop\c_sharp\OdeToFood\Resturant\bin\Debug\netcoreapp3.1\Resturant.deps.json
-C:\Users\karti\Desktop\c_sharp\OdeToFood\Resturant\bin\Debug\netcoreapp3.1\Resturant.dll
-C:\Users\karti\Desktop\c_sharp\OdeToFood\Resturant\bin\Debug\netcoreapp3.1\Resturant.pdb
-C:\Users\karti\Desktop\c_sharp\OdeToFood\Resturant\obj\Debug\netcoreapp3.1\Resturant.AssemblyInfoInputs.cache
-C:\Users\karti\Desktop\c_sharp\OdeToFood\Resturant\obj\Debug\netcoreapp3.1\Resturant.AssemblyInfo.cs
-C:\Users\karti\Desktop\c_sharp\OdeToFood\Resturant\obj\Debug\netcoreapp3.1\Resturant.csproj.CoreCompileInputs.cache
-C:\Users\karti\Desktop\c_sharp\OdeToFood\Resturant\obj\Debug\netcoreapp3.1\Resturant.dll
-C:\Users\karti\Desktop\c_sharp\OdeToFood\Resturant\obj\Debug\netcoreapp3.1\Resturant.pdb
-C:\Users\karti\Desktop\c_sharp\OdeToFood\Resturant\obj\Debug\netcoreapp3.1\Resturant.csproj.AssemblyReference.cache
